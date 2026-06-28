@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">Contract review dashboard</title>
+  <desc id="desc">A clean dashboard visual showing contract risks, clauses, and drafting progress.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="620" rx="36" fill="#0f172a"/>
+  <rect x="48" y="50" width="864" height="520" rx="28" fill="url(#frame)"/>
+  <rect x="86" y="92" width="210" height="436" rx="22" fill="#f8fafc"/>
+  <rect x="330" y="92" width="494" height="74" rx="20" fill="#eff6ff"/>
+  <rect x="330" y="198" width="224" height="156" rx="20" fill="#ffffff"/>
+  <rect x="584" y="198" width="240" height="156" rx="20" fill="#ffffff"/>
+  <rect x="330" y="386" width="494" height="142" rx="20" fill="#ffffff"/>
+  <path d="M122 134h118M122 184h84M122 234h128M122 284h96M122 334h142" stroke="#94a3b8" stroke-width="18" stroke-linecap="round"/>
+  <path d="M372 130h260" stroke="#2563eb" stroke-width="18" stroke-linecap="round"/>
+  <path d="M374 245h118M374 290h80M628 245h126M628 290h94" stroke="#64748b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M374 442h368M374 486h268" stroke="#94a3b8" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="500" cy="275" r="36" fill="#14b8a6" opacity=".18"/>
+  <circle cx="500" cy="275" r="20" fill="#14b8a6"/>
+  <circle cx="756" cy="275" r="36" fill="#7c3aed" opacity=".18"/>
+  <circle cx="756" cy="275" r="20" fill="#7c3aed"/>
+</svg>
